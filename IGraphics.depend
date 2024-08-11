@@ -1,0 +1,299 @@
+# depslib dependency file v1.0
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1646908330 c:\users\mimi\documents\new\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\mimi\documents\new\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1646905413 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\mousedemo.cpp
+	"iGraphics.h"
+
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563893532 source:c:\users\mimi\documents\new\igraphics-master\igraphics-master\picturedemo.cpp
+	"iGraphics.h"
+
+1563893532 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\solarsystem.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1646908332 c:\igraphics-master (1)\igraphics-master\igraphics-master\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\igraphics-master (1)\igraphics-master\igraphics-master\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\igraphics-master (1)\igraphics-master\igraphics-master\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\igraphics-master (1)\igraphics-master\igraphics-master\opengl\include\gl.h
+
+1646908414 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563893532 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\watch.cpp
+	"iGraphics.h"
+	<math.h>
+	<time.h>
+
+1648181356 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\imain.cpp
+	"iGraphics.h"
+	<windows.h>
+	<MMSystem.h>
+
+1648145208 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\maingame.cpp
+	"iGraphics.h"
+
+1648156447 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\maingamee.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1648185198 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\fighterplane.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<MMSystem.h>
+
+1648753784 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\mgame.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1648975202 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\myygame.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1648976009 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\myygame (3)tomuhit.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649002149 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\senttomuhit.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649111411 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\senttomuhitname.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649249919 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\ourgame.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649174310 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\ourgame (2).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649363319 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\muhitedited.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649260841 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\ourgamebackup.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649396834 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\finalising.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649488928 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\finalising2.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649447872 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\finalising2.1.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649448415 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\edited.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649522622 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\finalising2muhit.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649522900 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\final1.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649533508 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\finaluss.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649566545 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\final.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649542154 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\finaluss (1).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649573054 source:c:\igraphics-master (1)\igraphics-master\igraphics-master\final_code.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649573054 source:c:\users\acer\downloads\project\project\final_code.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1646908332 c:\users\acer\downloads\project\project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563893532 c:\users\acer\downloads\project\project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563893532 c:\users\acer\downloads\project\project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1649577741 source:c:\users\amimu\downloads\spacewars\project\final_code.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<MMSystem.h>
+
+1649577742 c:\users\amimu\downloads\spacewars\project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1649577747 c:\users\amimu\downloads\spacewars\project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1649577747 c:\users\amimu\downloads\spacewars\project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
